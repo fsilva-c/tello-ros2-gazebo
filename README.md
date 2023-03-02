@@ -15,7 +15,7 @@
     sudo apt install gazebo11 libgazebo11 libgazebo11-dev
 #### Add the following
     sudo apt install libasio-dev
-    sudo apt install ros-galactic-cv-bridge ros-galactic-camera-calibration-parsers 
+    sudo apt install ros-galactic-cv-bridge ros-galactic-camera-calibration-parsers ros-galactic-gazebo-ros
     sudo apt install libignition-rendering3 
     pip3 install transformations
 
